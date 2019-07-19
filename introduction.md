@@ -3,7 +3,7 @@ title: Introduction
 seoTitle: title for search engines
 seoDescription: description for search engines
 isFree: true
-image: /static/vim-600x600.jpg
+image: /static/vim-600x6000.jpg
 ---
 
 ## What is Lorem Ipsum?
